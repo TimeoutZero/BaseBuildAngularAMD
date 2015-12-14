@@ -1,0 +1,39 @@
+{
+  "name": "basebuild-angular",
+  "version": "0.9.4",
+  "main": "./dist/main.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeoutZero/BaseBuildAngular.git"
+  },
+  "dependencies": {
+    "basebuild-angular" : "0.9.4"
+  },
+  "keywords": [
+    "basebuild",
+    "build",
+    "base",
+    "angularJS",
+    "angular",
+    "timeoutzero",
+    "tz",
+    "basebuild-angular",
+    "amd",
+    "AMD",
+    "basebuild-angular-amd",
+    "build tool",
+    "tool"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "echo no tests! && exit 1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
